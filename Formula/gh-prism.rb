@@ -1,4 +1,4 @@
-class Prism < Formula
+class GhPrism < Formula
   include Language::Python::Virtualenv
 
   desc "PR Insights & System Monitor — GitHub dashboard in your terminal"
